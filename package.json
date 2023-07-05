@@ -1,0 +1,33 @@
+{
+  "name": "astro-huawei-agc",
+  "version": "0.0.1",
+  "description": "Provides huawei app analytics snippet injection.",
+  "keywords": [
+    "astro",
+    "astro-component",
+    "huawei",
+    "analytics",
+    "snippet",    "javascript"
+  ],
+  "homepage": "https://xxxx",
+  "bugs": {
+    "url": "https://github.com/wanghaisheng/astro-huawei-agc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wanghaisheng/astro-huawei-agc",
+    "directory": "app/Analytics"
+  },
+  "license": "MIT",
+  "author": "wanghaisheng",
+  "type": "module",
+  "main": "index.js",
+  "files": [
+    "index.astro",
+    "Huawei.astro",
+    "config.js",
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
