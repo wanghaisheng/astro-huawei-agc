@@ -88,4 +88,5 @@ var agConnectConfig =
 };
 ```
 
+## import huawei.astro to basehead or index.astro
 
