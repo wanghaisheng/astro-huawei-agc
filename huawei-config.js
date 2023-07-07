@@ -22,7 +22,6 @@ import '@hw-hmscore/analytics-web'
 import agConnectConfig from './config.js'        
 // paste your SDK Code Snippet here, SDK Code Snippet can be found on your project general information
 
-const   = 
 
 
 /**
