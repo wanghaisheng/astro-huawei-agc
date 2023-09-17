@@ -4,7 +4,8 @@ integrate huawei app analysis sdk with your astro app
 
 ##  apply 
 
-https://developer.huawei.com/consumer/cn/service/josp/agc/index.html#/myProject/388421841221558915/97458334310914890?appId=172249065902578551
+
+https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/javascript-integrating-sdk-0000001051065743
 
 
 ## copy sdk code snippets
